@@ -15,6 +15,7 @@ A API permite gerenciar filmes, gêneros, atores e reviews, implementando opera�
   - Reviews
 - ✅ Relacionamentos entre entidades
 - ✅ API estruturada com boas práticas REST
+- 🔐 Autenticação JWT
 
 ---
 
